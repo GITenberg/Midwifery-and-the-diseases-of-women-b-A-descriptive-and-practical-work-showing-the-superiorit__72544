@@ -1,0 +1,31 @@
+_repo: Midwifery-and-the-diseases-of-women-b-A-descriptive-and-practical-work-showing-the-superiorit__72544
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shew, Joel
+    gutenberg_agent_id: '56725'
+    url: http://www.gutenberg.org/2009/agents/56725
+description: ''
+gutenberg_issued: '2023-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72544'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/010824549
+pgterms:marc905: 20230501164913shew
+pgterms:marc906: '1852'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bFowlers and Wells, $c1852, pubdate 1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Midwifery and the diseases of women : $b A descriptive and practical work
+  showing the superiority of water-treatment in menstruation and its disorders, chlorosis,
+  leucorrhea, fluor albus, prolapsus uteri, hysteria, spinal diseases, and other weaknesses
+  of females, in pregnancy and its diseases, abortion, uterine hemorrhage, and the
+  general management of childbirth, nursing, etc., etc.'
+url: http://www.gutenberg.org/ebooks/72544
