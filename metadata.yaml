@@ -1,11 +1,16 @@
 _repo: Midwifery-and-the-diseases-of-women-b-A-descriptive-and-practical-work-showing-the-superiorit__72544
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72544-h/images/cover.jpg
 creator:
   author:
     agent_name: Shew, Joel
     gutenberg_agent_id: '56725'
     url: http://www.gutenberg.org/2009/agents/56725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72544#Midwifery-and-the-diseases-of-women-b-A-descriptive-and-practical-work-showing-the-superiorit_
 gutenberg_issued: '2023-12-30'
 gutenberg_type: Text
 identifiers:
